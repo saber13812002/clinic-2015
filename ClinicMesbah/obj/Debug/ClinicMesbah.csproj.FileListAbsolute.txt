@@ -1,0 +1,711 @@
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+c:\users\ahmadian\documents\visual studio 2012\Projects\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\ahmadian\Msbh\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\Amoozeshkade\C#\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\ahmadian\Mesbah\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+C:\Users\mrezaei\Downloads\clinic\ClinicMesbah\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\JalaliCalendar.dll
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\Persia.dll
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.application
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+F:\arshiv\New folder\ClinicMesbah-2014-11-16\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\930904\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.application
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.application
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\bin\Debug\MesbahComponent.dll
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+E:\Users\Shirin\Desktop\ClinicMesbah\ClinicMesbah\obj\Debug\ClinicMesbah.application
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.application
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\bin\Debug\MesbahComponent.dll
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+E:\Users\Shirin\Desktop\ClinicMesbah - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.application
+H:\مصباح\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+H:\مصباح\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+H:\مصباح\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.application
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+E:\ClinicMesbah -2\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.application
+F:\930910\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+F:\930910\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+F:\930910\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.application
+F:\930910\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+F:\930910\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+F:\930910\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.application
+F:\930910\ClinicMesbah -2\ClinicMesbah\bin\Debug\MesbahComponent.dll
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\930911\ClinicMesbah -2(1)\ClinicMesbah -2\ClinicMesbah\obj\Debug\ClinicMesbah.application
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+F:\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Settings.resources
+F:\project\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+F:\project\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+F:\project\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+F:\project\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+F:\project\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+=======
+D:\930911\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\930911\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\930911\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\930911\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\930911\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\930911\ClinicMesbah\obj\Debug\ClinicMesbah.application
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+F:\project\clinic\ClinicMesbah\bin\Debug\AmirCalendar.pdb
+F:\project\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+F:\project\clinic\ClinicMesbah\bin\Debug\AmirCalendar.dll
+D:\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\930925\clinic\ClinicMesbah\bin\Debug\AmirCalendar.pdb
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\bin\Debug\AmirCalendar.pdb
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\New folder\New folder (4)\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\MesbahComponent.dll
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\New folder\930927\930925\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+D:\New folder\930927\930925\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\bin\Debug\MesbahComponent.dll
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\New folder\930927\930925\931118\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\931203\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\SERVER\mesbahsoft csharp projects\clinic\931207\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\New folder\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\New folder\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\New folder\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\New folder\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\New folder\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\New folder\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\clinic\ClinicMesbah\bin\Debug\MesbahComponent.dll
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\New folder\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+D:\New folder\clinic\ClinicMesbah\bin\Debug\AmirCalendar.dll
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+D:\New folder\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\AmirCalendar.dll
+D:\New folder\Demo\clinic\ClinicMesbah\bin\Debug\MesbahComponent.dll
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\New folder\Demo\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940213\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940311\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940312\clinic\ClinicMesbah\obj\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\server\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.application
+H:\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+H:\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+H:\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.application
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+\\192.168.1.15\mesbahsoft csharp projects\clinic\940312\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.application
+D:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+D:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+D:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.application
+D:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+D:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+D:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+D:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.application
+G:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+G:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+G:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.application
+G:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+G:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+G:\clinic 2008\clinic - Copy\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+G:\clinic 2008\clinic - Copy\ClinicMesbah\obj\Debug\ClinicMesbah.application
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\bin\Debug\ClinicMesbah.exe.config
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.exe
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.pdb
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\bin\Debug\ClinicMesbah.exe.manifest
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\bin\Debug\ClinicMesbah.application
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\bin\Debug\ClinicMesbah.exe
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\bin\Debug\ClinicMesbah.pdb
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\bin\Debug\fa\ClinicMesbah.resources.dll
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.csprojResolveAssemblyReference.cache
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.BackGround.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Calender.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.ConnectionString.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.DoctorKartable.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Document.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.DocumentsDetails.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.DrugStore.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.ErrorReport.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Form1.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Form2.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.IntermittenceSearch.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.MDIForm.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Others.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Properties.Resources.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Setting.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.ShowAttachments.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.Lablatory.fa.resources
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.csproj.GenerateResource.Cache
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.exe.licenses
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\fa\ClinicMesbah.resources.dll
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.exe.manifest
+C:\Users\taba\Documents\clinic 2008\clinic-proj\ClinicMesbah\obj\Debug\ClinicMesbah.application

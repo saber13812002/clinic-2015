@@ -1,0 +1,6 @@
+D:\clinic 2008\clinic - Copy\Data Objects\obj\Debug\Data Objects.csprojResolveAssemblyReference.cache
+D:\clinic 2008\clinic - Copy\Data Objects\bin\Debug\Data Objects.dll.config
+D:\clinic 2008\clinic - Copy\Data Objects\bin\Debug\Data Objects.dll
+D:\clinic 2008\clinic - Copy\Data Objects\bin\Debug\Data Objects.pdb
+D:\clinic 2008\clinic - Copy\Data Objects\obj\Debug\Data Objects.dll
+D:\clinic 2008\clinic - Copy\Data Objects\obj\Debug\Data Objects.pdb

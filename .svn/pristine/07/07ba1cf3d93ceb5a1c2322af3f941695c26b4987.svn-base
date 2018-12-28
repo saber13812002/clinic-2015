@@ -1,0 +1,750 @@
+﻿namespace ClinicMesbah
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.colorBox1 = new MesbahComponent.ColorBox();
+            this.MenuRightPanelWithBorder = new MesbahComponent.PanelWithBorder(this.components);
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.MenuItem1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuItem2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuItem3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuItem4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.RightPanelWithBorder = new MesbahComponent.PanelWithBorder(this.components);
+            this.SMSDataGridView = new System.Windows.Forms.DataGridView();
+            this.CustomerCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NumberCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TimeCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StateCol = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SectionCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SendSMSPanelWithBorder = new MesbahComponent.PanelWithBorder(this.components);
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.SendSMSColorProgressBar = new MesbahComponent.ColorProgressBar();
+            this.SendSMSButton = new System.Windows.Forms.Button();
+            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
+            this.MenuTop4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuTop3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuTop1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MenuTop2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.BottomPanelWithBorder = new MesbahComponent.PanelWithBorder(this.components);
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.ColorCheckBox = new System.Windows.Forms.CheckBox();
+            this.TopPanelWithBorder = new MesbahComponent.PanelWithBorder(this.components);
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.btnTomarow = new System.Windows.Forms.Button();
+            this.btnToday = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.gridMesbah1 = new MesbahComponent.Grid.GridMesbah();
+            this.DeliveredSmsProgressBar1 = new MesbahComponent.ColorProgressBar();
+            this.MenuRightPanelWithBorder.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
+            this.RightPanelWithBorder.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.SMSDataGridView)).BeginInit();
+            this.SendSMSPanelWithBorder.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.menuStrip2.SuspendLayout();
+            this.BottomPanelWithBorder.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.TopPanelWithBorder.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // colorBox1
+            // 
+            this.colorBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.colorBox1.BackColor = System.Drawing.Color.White;
+            this.colorBox1.Color1 = System.Drawing.Color.SteelBlue;
+            this.colorBox1.Color2 = System.Drawing.Color.CadetBlue;
+            this.colorBox1.Color3 = System.Drawing.Color.DarkSlateBlue;
+            this.colorBox1.Color4 = System.Drawing.Color.DarkGoldenrod;
+            this.colorBox1.Color5 = System.Drawing.Color.DimGray;
+            this.colorBox1.Color6 = System.Drawing.Color.DarkKhaki;
+            this.colorBox1.Color7 = System.Drawing.Color.Black;
+            this.colorBox1.Color8 = System.Drawing.Color.Maroon;
+            this.colorBox1.Color9 = System.Drawing.Color.SaddleBrown;
+            this.colorBox1.ColorActive = System.Drawing.Color.SteelBlue;
+            this.colorBox1.Location = new System.Drawing.Point(2, 4);
+            this.colorBox1.Name = "colorBox1";
+            this.colorBox1.Size = new System.Drawing.Size(139, 148);
+            this.colorBox1.TabIndex = 3;
+            this.colorBox1.Visible = false;
+            this.colorBox1.ColorChange += new MesbahComponent.ColorBox.ColorChangeHandler(this.colorBox1_ColorChange);
+            this.colorBox1.Leave += new System.EventHandler(this.colorBox1_Leave);
+            // 
+            // MenuRightPanelWithBorder
+            // 
+            this.MenuRightPanelWithBorder.BorderColor = System.Drawing.Color.Black;
+            this.MenuRightPanelWithBorder.BorderSize = 1;
+            this.MenuRightPanelWithBorder.Controls.Add(this.menuStrip1);
+            this.MenuRightPanelWithBorder.DashStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.MenuRightPanelWithBorder.Dock = System.Windows.Forms.DockStyle.Right;
+            this.MenuRightPanelWithBorder.Location = new System.Drawing.Point(400, 82);
+            this.MenuRightPanelWithBorder.Name = "MenuRightPanelWithBorder";
+            this.MenuRightPanelWithBorder.Padding = new System.Windows.Forms.Padding(1, 0, 0, 0);
+            this.MenuRightPanelWithBorder.Size = new System.Drawing.Size(37, 621);
+            this.MenuRightPanelWithBorder.TabIndex = 5;
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.BackColor = System.Drawing.SystemColors.Control;
+            this.menuStrip1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.menuStrip1.Font = new System.Drawing.Font("B Yekan", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.MenuItem1ToolStripMenuItem,
+            this.MenuItem2ToolStripMenuItem,
+            this.MenuItem3ToolStripMenuItem,
+            this.MenuItem4ToolStripMenuItem});
+            this.menuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.VerticalStackWithOverflow;
+            this.menuStrip1.Location = new System.Drawing.Point(1, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(0);
+            this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
+            this.menuStrip1.Size = new System.Drawing.Size(36, 621);
+            this.menuStrip1.TabIndex = 4;
+            this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
+            // 
+            // MenuItem1ToolStripMenuItem
+            // 
+            this.MenuItem1ToolStripMenuItem.BackColor = System.Drawing.Color.Transparent;
+            this.MenuItem1ToolStripMenuItem.Checked = true;
+            this.MenuItem1ToolStripMenuItem.CheckOnClick = true;
+            this.MenuItem1ToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.MenuItem1ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(0, 0, -1, 0);
+            this.MenuItem1ToolStripMenuItem.Name = "MenuItem1ToolStripMenuItem";
+            this.MenuItem1ToolStripMenuItem.Size = new System.Drawing.Size(36, 61);
+            this.MenuItem1ToolStripMenuItem.Text = "بخش غدد";
+            this.MenuItem1ToolStripMenuItem.Click += new System.EventHandler(this.MenuItem1ToolStripMenuItem_Click);
+            this.MenuItem1ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuItem1ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // MenuItem2ToolStripMenuItem
+            // 
+            this.MenuItem2ToolStripMenuItem.BackColor = System.Drawing.Color.Transparent;
+            this.MenuItem2ToolStripMenuItem.CheckOnClick = true;
+            this.MenuItem2ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(0, 0, -1, 0);
+            this.MenuItem2ToolStripMenuItem.Name = "MenuItem2ToolStripMenuItem";
+            this.MenuItem2ToolStripMenuItem.Size = new System.Drawing.Size(36, 69);
+            this.MenuItem2ToolStripMenuItem.Text = "بخش اطفال";
+            this.MenuItem2ToolStripMenuItem.Click += new System.EventHandler(this.MenuItem2ToolStripMenuItem_Click);
+            this.MenuItem2ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuItem2ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // MenuItem3ToolStripMenuItem
+            // 
+            this.MenuItem3ToolStripMenuItem.BackColor = System.Drawing.Color.Transparent;
+            this.MenuItem3ToolStripMenuItem.CheckOnClick = true;
+            this.MenuItem3ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(0, 0, -1, 0);
+            this.MenuItem3ToolStripMenuItem.Name = "MenuItem3ToolStripMenuItem";
+            this.MenuItem3ToolStripMenuItem.Size = new System.Drawing.Size(36, 63);
+            this.MenuItem3ToolStripMenuItem.Text = "بخش قلب";
+            this.MenuItem3ToolStripMenuItem.Click += new System.EventHandler(this.MenuItem3ToolStripMenuItem_Click);
+            this.MenuItem3ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuItem3ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // MenuItem4ToolStripMenuItem
+            // 
+            this.MenuItem4ToolStripMenuItem.BackColor = System.Drawing.Color.Transparent;
+            this.MenuItem4ToolStripMenuItem.CheckOnClick = true;
+            this.MenuItem4ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(0, 0, -1, 0);
+            this.MenuItem4ToolStripMenuItem.Name = "MenuItem4ToolStripMenuItem";
+            this.MenuItem4ToolStripMenuItem.Size = new System.Drawing.Size(36, 70);
+            this.MenuItem4ToolStripMenuItem.Text = "بخش دیابت";
+            this.MenuItem4ToolStripMenuItem.Click += new System.EventHandler(this.MenuItem4ToolStripMenuItem_Click);
+            this.MenuItem4ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuItem4ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // RightPanelWithBorder
+            // 
+            this.RightPanelWithBorder.BorderColor = System.Drawing.Color.Black;
+            this.RightPanelWithBorder.BorderSize = 1;
+            this.RightPanelWithBorder.Controls.Add(this.SMSDataGridView);
+            this.RightPanelWithBorder.Controls.Add(this.SendSMSPanelWithBorder);
+            this.RightPanelWithBorder.Controls.Add(this.menuStrip2);
+            this.RightPanelWithBorder.DashStyle = System.Drawing.Drawing2D.DashStyle.Solid;
+            this.RightPanelWithBorder.Dock = System.Windows.Forms.DockStyle.Right;
+            this.RightPanelWithBorder.Location = new System.Drawing.Point(437, 82);
+            this.RightPanelWithBorder.Name = "RightPanelWithBorder";
+            this.RightPanelWithBorder.Padding = new System.Windows.Forms.Padding(1, 0, 0, 0);
+            this.RightPanelWithBorder.Size = new System.Drawing.Size(371, 621);
+            this.RightPanelWithBorder.TabIndex = 2;
+            // 
+            // SMSDataGridView
+            // 
+            this.SMSDataGridView.AllowUserToAddRows = false;
+            this.SMSDataGridView.AllowUserToDeleteRows = false;
+            this.SMSDataGridView.AllowUserToResizeColumns = false;
+            this.SMSDataGridView.AllowUserToResizeRows = false;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.SMSDataGridView.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.SMSDataGridView.BackgroundColor = System.Drawing.Color.White;
+            this.SMSDataGridView.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.SMSDataGridView.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
+            this.SMSDataGridView.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("B Nazanin", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.SMSDataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.SMSDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.SMSDataGridView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.CustomerCol,
+            this.NumberCol,
+            this.TimeCol,
+            this.StateCol,
+            this.ID,
+            this.SectionCol});
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.SMSDataGridView.DefaultCellStyle = dataGridViewCellStyle5;
+            this.SMSDataGridView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.SMSDataGridView.EnableHeadersVisualStyles = false;
+            this.SMSDataGridView.Location = new System.Drawing.Point(1, 87);
+            this.SMSDataGridView.Name = "SMSDataGridView";
+            this.SMSDataGridView.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.SMSDataGridView.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            this.SMSDataGridView.RowHeadersVisible = false;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("B Nazanin", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.SkyBlue;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.Color.Black;
+            this.SMSDataGridView.RowsDefaultCellStyle = dataGridViewCellStyle7;
+            this.SMSDataGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.SMSDataGridView.Size = new System.Drawing.Size(370, 534);
+            this.SMSDataGridView.TabIndex = 1;
+            this.SMSDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.SMSDataGridView_CellContentClick);
+            this.SMSDataGridView.CellMouseUp += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.SMSDataGridView_CellMouseUp);
+            this.SMSDataGridView.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.SMSDataGridView_CellContentClick);
+            // 
+            // CustomerCol
+            // 
+            this.CustomerCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.CustomerCol.DataPropertyName = "CustomerCol";
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            this.CustomerCol.DefaultCellStyle = dataGridViewCellStyle3;
+            this.CustomerCol.HeaderText = " بیمار";
+            this.CustomerCol.MinimumWidth = 60;
+            this.CustomerCol.Name = "CustomerCol";
+            this.CustomerCol.ReadOnly = true;
+            // 
+            // NumberCol
+            // 
+            this.NumberCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.NumberCol.DataPropertyName = "NumberCol";
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            this.NumberCol.DefaultCellStyle = dataGridViewCellStyle4;
+            this.NumberCol.HeaderText = "شماره تماس";
+            this.NumberCol.MinimumWidth = 60;
+            this.NumberCol.Name = "NumberCol";
+            this.NumberCol.ReadOnly = true;
+            // 
+            // TimeCol
+            // 
+            this.TimeCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.TimeCol.DataPropertyName = "TimeCol";
+            this.TimeCol.HeaderText = "نوبت";
+            this.TimeCol.MinimumWidth = 40;
+            this.TimeCol.Name = "TimeCol";
+            this.TimeCol.ReadOnly = true;
+            this.TimeCol.Width = 60;
+            // 
+            // StateCol
+            // 
+            this.StateCol.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.StateCol.DataPropertyName = "StateCol";
+            this.StateCol.HeaderText = "وضعیت ";
+            this.StateCol.MinimumWidth = 40;
+            this.StateCol.Name = "StateCol";
+            this.StateCol.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.StateCol.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.StateCol.Width = 40;
+            // 
+            // ID
+            // 
+            this.ID.DataPropertyName = "ID";
+            this.ID.HeaderText = "شناسه";
+            this.ID.Name = "ID";
+            this.ID.ReadOnly = true;
+            this.ID.Visible = false;
+            this.ID.Width = 5;
+            // 
+            // SectionCol
+            // 
+            this.SectionCol.DataPropertyName = "SectionCol";
+            this.SectionCol.HeaderText = "بخش";
+            this.SectionCol.MinimumWidth = 60;
+            this.SectionCol.Name = "SectionCol";
+            this.SectionCol.ReadOnly = true;
+            this.SectionCol.Width = 110;
+            // 
+            // SendSMSPanelWithBorder
+            // 
+            this.SendSMSPanelWithBorder.BorderColor = System.Drawing.Color.Black;
+            this.SendSMSPanelWithBorder.BorderSize = 1;
+            this.SendSMSPanelWithBorder.Controls.Add(this.panel2);
+            this.SendSMSPanelWithBorder.DashStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.SendSMSPanelWithBorder.Dock = System.Windows.Forms.DockStyle.Top;
+            this.SendSMSPanelWithBorder.Location = new System.Drawing.Point(1, 26);
+            this.SendSMSPanelWithBorder.Name = "SendSMSPanelWithBorder";
+            this.SendSMSPanelWithBorder.Padding = new System.Windows.Forms.Padding(0, 1, 0, 0);
+            this.SendSMSPanelWithBorder.Size = new System.Drawing.Size(370, 61);
+            this.SendSMSPanelWithBorder.TabIndex = 3;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.DeliveredSmsProgressBar1);
+            this.panel2.Controls.Add(this.SendSMSColorProgressBar);
+            this.panel2.Controls.Add(this.SendSMSButton);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel2.Location = new System.Drawing.Point(0, 1);
+            this.panel2.Name = "panel2";
+            this.panel2.Padding = new System.Windows.Forms.Padding(3);
+            this.panel2.Size = new System.Drawing.Size(370, 60);
+            this.panel2.TabIndex = 2;
+            // 
+            // SendSMSColorProgressBar
+            // 
+            this.SendSMSColorProgressBar.BarColor = System.Drawing.Color.SteelBlue;
+            this.SendSMSColorProgressBar.BorderColor = System.Drawing.Color.Transparent;
+            this.SendSMSColorProgressBar.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.SendSMSColorProgressBar.FillStyle = MesbahComponent.ColorProgressBar.FillStyles.Solid;
+            this.SendSMSColorProgressBar.Location = new System.Drawing.Point(3, 53);
+            this.SendSMSColorProgressBar.LocationTextValue = 0;
+            this.SendSMSColorProgressBar.Maximum = 100;
+            this.SendSMSColorProgressBar.Minimum = 0;
+            this.SendSMSColorProgressBar.Name = "SendSMSColorProgressBar";
+            this.SendSMSColorProgressBar.ShowTextValue = false;
+            this.SendSMSColorProgressBar.Size = new System.Drawing.Size(364, 4);
+            this.SendSMSColorProgressBar.Step = 1;
+            this.SendSMSColorProgressBar.StyleDrowMode = MesbahComponent.ColorProgressBar.StyleDraw.Normal;
+            this.SendSMSColorProgressBar.TabIndex = 4;
+            this.SendSMSColorProgressBar.Text = "colorProgressBar1";
+            this.SendSMSColorProgressBar.Value = 0;
+            // 
+            // SendSMSButton
+            // 
+            this.SendSMSButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.SendSMSButton.BackColor = System.Drawing.Color.SteelBlue;
+            this.SendSMSButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.SendSMSButton.FlatAppearance.BorderSize = 0;
+            this.SendSMSButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.SendSMSButton.Font = new System.Drawing.Font("B Nazanin", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.SendSMSButton.ForeColor = System.Drawing.Color.White;
+            this.SendSMSButton.Location = new System.Drawing.Point(100, 11);
+            this.SendSMSButton.Name = "SendSMSButton";
+            this.SendSMSButton.Size = new System.Drawing.Size(164, 38);
+            this.SendSMSButton.TabIndex = 0;
+            this.SendSMSButton.Text = "ارسال پیامک ها";
+            this.SendSMSButton.UseVisualStyleBackColor = false;
+            this.SendSMSButton.Click += new System.EventHandler(this.SendSMSButton_Click);
+            // 
+            // menuStrip2
+            // 
+            this.menuStrip2.Font = new System.Drawing.Font("B Yekan", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.MenuTop4ToolStripMenuItem,
+            this.MenuTop3ToolStripMenuItem,
+            this.MenuTop1ToolStripMenuItem,
+            this.MenuTop2ToolStripMenuItem});
+            this.menuStrip2.Location = new System.Drawing.Point(1, 0);
+            this.menuStrip2.Name = "menuStrip2";
+            this.menuStrip2.Padding = new System.Windows.Forms.Padding(3, 0, 0, 2);
+            this.menuStrip2.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
+            this.menuStrip2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.menuStrip2.Size = new System.Drawing.Size(370, 26);
+            this.menuStrip2.TabIndex = 0;
+            this.menuStrip2.Text = "menuStrip2";
+            // 
+            // MenuTop4ToolStripMenuItem
+            // 
+            this.MenuTop4ToolStripMenuItem.CheckOnClick = true;
+            this.MenuTop4ToolStripMenuItem.Name = "MenuTop4ToolStripMenuItem";
+            this.MenuTop4ToolStripMenuItem.Size = new System.Drawing.Size(49, 24);
+            this.MenuTop4ToolStripMenuItem.Text = "پیامک";
+            this.MenuTop4ToolStripMenuItem.Click += new System.EventHandler(this.MenuTop4ToolStripMenuItem_Click);
+            this.MenuTop4ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuTop4ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // MenuTop3ToolStripMenuItem
+            // 
+            this.MenuTop3ToolStripMenuItem.CheckOnClick = true;
+            this.MenuTop3ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(2, 0, 0, 0);
+            this.MenuTop3ToolStripMenuItem.Name = "MenuTop3ToolStripMenuItem";
+            this.MenuTop3ToolStripMenuItem.Size = new System.Drawing.Size(68, 24);
+            this.MenuTop3ToolStripMenuItem.Text = "تلفن ثابت";
+            this.MenuTop3ToolStripMenuItem.Click += new System.EventHandler(this.MenuTop3ToolStripMenuItem_Click);
+            this.MenuTop3ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuTop3ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // MenuTop1ToolStripMenuItem
+            // 
+            this.MenuTop1ToolStripMenuItem.CheckOnClick = true;
+            this.MenuTop1ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(2, 0, 0, 0);
+            this.MenuTop1ToolStripMenuItem.Name = "MenuTop1ToolStripMenuItem";
+            this.MenuTop1ToolStripMenuItem.Size = new System.Drawing.Size(82, 24);
+            this.MenuTop1ToolStripMenuItem.Text = "ارتباط دوباره";
+            this.MenuTop1ToolStripMenuItem.Click += new System.EventHandler(this.MenuTop1ToolStripMenuItem_Click);
+            this.MenuTop1ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuTop1ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // MenuTop2ToolStripMenuItem
+            // 
+            this.MenuTop2ToolStripMenuItem.CheckOnClick = true;
+            this.MenuTop2ToolStripMenuItem.Margin = new System.Windows.Forms.Padding(2, 0, 0, 0);
+            this.MenuTop2ToolStripMenuItem.Name = "MenuTop2ToolStripMenuItem";
+            this.MenuTop2ToolStripMenuItem.Size = new System.Drawing.Size(101, 24);
+            this.MenuTop2ToolStripMenuItem.Text = "قطعی کردن نهایی";
+            this.MenuTop2ToolStripMenuItem.Click += new System.EventHandler(this.MenuTop2ToolStripMenuItem_Click);
+            this.MenuTop2ToolStripMenuItem.MouseEnter += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseEnter);
+            this.MenuTop2ToolStripMenuItem.MouseLeave += new System.EventHandler(this.MenuItem1ToolStripMenuItem_MouseLeave);
+            // 
+            // BottomPanelWithBorder
+            // 
+            this.BottomPanelWithBorder.BorderColor = System.Drawing.Color.Black;
+            this.BottomPanelWithBorder.BorderSize = 1;
+            this.BottomPanelWithBorder.Controls.Add(this.panel3);
+            this.BottomPanelWithBorder.DashStyle = System.Drawing.Drawing2D.DashStyle.Solid;
+            this.BottomPanelWithBorder.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.BottomPanelWithBorder.Location = new System.Drawing.Point(0, 703);
+            this.BottomPanelWithBorder.Name = "BottomPanelWithBorder";
+            this.BottomPanelWithBorder.Padding = new System.Windows.Forms.Padding(0, 1, 0, 0);
+            this.BottomPanelWithBorder.Size = new System.Drawing.Size(808, 30);
+            this.BottomPanelWithBorder.TabIndex = 1;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.ColorCheckBox);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.Location = new System.Drawing.Point(0, 1);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(808, 29);
+            this.panel3.TabIndex = 0;
+            // 
+            // ColorCheckBox
+            // 
+            this.ColorCheckBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.ColorCheckBox.Appearance = System.Windows.Forms.Appearance.Button;
+            this.ColorCheckBox.BackColor = System.Drawing.Color.SteelBlue;
+            this.ColorCheckBox.BackgroundImage = global::ClinicMesbah.Properties.Resources.BackGroundButton;
+            this.ColorCheckBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ColorCheckBox.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ColorCheckBox.FlatAppearance.BorderSize = 0;
+            this.ColorCheckBox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ColorCheckBox.Location = new System.Drawing.Point(4, 3);
+            this.ColorCheckBox.Name = "ColorCheckBox";
+            this.ColorCheckBox.Size = new System.Drawing.Size(23, 23);
+            this.ColorCheckBox.TabIndex = 4;
+            this.ColorCheckBox.UseVisualStyleBackColor = false;
+            this.ColorCheckBox.CheckedChanged += new System.EventHandler(this.ColorCheckBox_CheckedChanged);
+            // 
+            // TopPanelWithBorder
+            // 
+            this.TopPanelWithBorder.BorderColor = System.Drawing.Color.Black;
+            this.TopPanelWithBorder.BorderSize = 1;
+            this.TopPanelWithBorder.Controls.Add(this.panel1);
+            this.TopPanelWithBorder.DashStyle = System.Drawing.Drawing2D.DashStyle.Solid;
+            this.TopPanelWithBorder.Dock = System.Windows.Forms.DockStyle.Top;
+            this.TopPanelWithBorder.Location = new System.Drawing.Point(0, 0);
+            this.TopPanelWithBorder.Name = "TopPanelWithBorder";
+            this.TopPanelWithBorder.Padding = new System.Windows.Forms.Padding(0, 0, 0, 1);
+            this.TopPanelWithBorder.Size = new System.Drawing.Size(808, 82);
+            this.TopPanelWithBorder.TabIndex = 0;
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.btnTomarow);
+            this.panel1.Controls.Add(this.btnToday);
+            this.panel1.Controls.Add(this.button3);
+            this.panel1.Controls.Add(this.button2);
+            this.panel1.Controls.Add(this.button1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(808, 81);
+            this.panel1.TabIndex = 0;
+            // 
+            // btnTomarow
+            // 
+            this.btnTomarow.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnTomarow.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnTomarow.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnTomarow.FlatAppearance.BorderSize = 0;
+            this.btnTomarow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTomarow.Font = new System.Drawing.Font("B Nazanin", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.btnTomarow.ForeColor = System.Drawing.Color.White;
+            this.btnTomarow.Location = new System.Drawing.Point(66, 41);
+            this.btnTomarow.Name = "btnTomarow";
+            this.btnTomarow.Size = new System.Drawing.Size(111, 32);
+            this.btnTomarow.TabIndex = 2;
+            this.btnTomarow.Text = "فردا";
+            this.btnTomarow.UseVisualStyleBackColor = false;
+            this.btnTomarow.Click += new System.EventHandler(this.button7_Click);
+            this.btnTomarow.MouseEnter += new System.EventHandler(this.btnTomarow_MouseEnter);
+            this.btnTomarow.MouseLeave += new System.EventHandler(this.btnTomarow_MouseLeave);
+            // 
+            // btnToday
+            // 
+            this.btnToday.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnToday.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnToday.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnToday.FlatAppearance.BorderSize = 0;
+            this.btnToday.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnToday.Font = new System.Drawing.Font("B Nazanin", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.btnToday.ForeColor = System.Drawing.Color.White;
+            this.btnToday.Location = new System.Drawing.Point(182, 41);
+            this.btnToday.Name = "btnToday";
+            this.btnToday.Size = new System.Drawing.Size(111, 32);
+            this.btnToday.TabIndex = 1;
+            this.btnToday.Text = "امروز";
+            this.btnToday.UseVisualStyleBackColor = false;
+            this.btnToday.Click += new System.EventHandler(this.btnDay_Click);
+            this.btnToday.MouseEnter += new System.EventHandler(this.btnToday_MouseEnter);
+            this.btnToday.MouseLeave += new System.EventHandler(this.btnToday_MouseLeave);
+            // 
+            // button3
+            // 
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button3.BackColor = System.Drawing.Color.SteelBlue;
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button3.FlatAppearance.BorderSize = 0;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("B Nazanin", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.Location = new System.Drawing.Point(577, 8);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(72, 65);
+            this.button3.TabIndex = 0;
+            this.button3.Text = "تنظیمات";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.button3.MouseEnter += new System.EventHandler(this.button3_MouseEnter);
+            this.button3.MouseLeave += new System.EventHandler(this.button3_MouseLeave);
+            // 
+            // button2
+            // 
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button2.BackColor = System.Drawing.Color.SteelBlue;
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("B Nazanin", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.button2.ForeColor = System.Drawing.Color.White;
+            this.button2.Location = new System.Drawing.Point(652, 8);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(72, 65);
+            this.button2.TabIndex = 0;
+            this.button2.Text = "پزشک";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.MouseEnter += new System.EventHandler(this.button2_MouseEnter);
+            this.button2.MouseLeave += new System.EventHandler(this.button2_MouseLeave);
+            // 
+            // button1
+            // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.BackColor = System.Drawing.Color.SteelBlue;
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("B Nazanin", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(727, 8);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(72, 65);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "داروخانه";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.MouseEnter += new System.EventHandler(this.button1_MouseEnter);
+            this.button1.MouseLeave += new System.EventHandler(this.button1_MouseLeave);
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 300;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.colorBox1);
+            this.panel4.Location = new System.Drawing.Point(3, 547);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(144, 155);
+            this.panel4.TabIndex = 7;
+            this.panel4.Visible = false;
+            // 
+            // gridMesbah1
+            // 
+            this.gridMesbah1.AllowCellsDrop = false;
+            this.gridMesbah1.AutoScroll = true;
+            this.gridMesbah1.AutoSize = true;
+            this.gridMesbah1.CellsBorderColor = System.Drawing.Color.Black;
+            this.gridMesbah1.CellsButtonColor = System.Drawing.Color.Black;
+            this.gridMesbah1.CellsForColor = System.Drawing.Color.Black;
+            this.gridMesbah1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gridMesbah1.Location = new System.Drawing.Point(0, 82);
+            this.gridMesbah1.Name = "gridMesbah1";
+            this.gridMesbah1.Padding = new System.Windows.Forms.Padding(1);
+            this.gridMesbah1.RowsBorderColor = System.Drawing.Color.Black;
+            this.gridMesbah1.Size = new System.Drawing.Size(400, 621);
+            this.gridMesbah1.TabIndex = 6;
+            this.gridMesbah1.CellClickAdd += new MesbahComponent.Grid.GridMesbah.CellClickAddHandler(this.gridMesbah1_CellClickAdd);
+            this.gridMesbah1.CellClickAttach += new MesbahComponent.Grid.GridMesbah.CellClickAttachHandler(this.gridMesbah1_CellClickAttach);
+            this.gridMesbah1.CellClickForward += new MesbahComponent.Grid.GridMesbah.CellClickForwardHandler(this.gridMesbah1_CellClickForward);
+            this.gridMesbah1.CellClickDelete += new MesbahComponent.Grid.GridMesbah.CellClickDeleteHandler(this.gridMesbah1_CellClickDelete);
+            // 
+            // DeliveredSmsProgressBar1
+            // 
+            this.DeliveredSmsProgressBar1.BarColor = System.Drawing.Color.SteelBlue;
+            this.DeliveredSmsProgressBar1.BorderColor = System.Drawing.Color.Transparent;
+            this.DeliveredSmsProgressBar1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.DeliveredSmsProgressBar1.FillStyle = MesbahComponent.ColorProgressBar.FillStyles.Solid;
+            this.DeliveredSmsProgressBar1.Location = new System.Drawing.Point(3, 49);
+            this.DeliveredSmsProgressBar1.LocationTextValue = 0;
+            this.DeliveredSmsProgressBar1.Maximum = 100;
+            this.DeliveredSmsProgressBar1.Minimum = 0;
+            this.DeliveredSmsProgressBar1.Name = "DeliveredSmsProgressBar1";
+            this.DeliveredSmsProgressBar1.ShowTextValue = false;
+            this.DeliveredSmsProgressBar1.Size = new System.Drawing.Size(364, 4);
+            this.DeliveredSmsProgressBar1.Step = 1;
+            this.DeliveredSmsProgressBar1.StyleDrowMode = MesbahComponent.ColorProgressBar.StyleDraw.Normal;
+            this.DeliveredSmsProgressBar1.TabIndex = 5;
+            this.DeliveredSmsProgressBar1.Text = "colorProgressBar1";
+            this.DeliveredSmsProgressBar1.Value = 0;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(808, 733);
+            this.Controls.Add(this.panel4);
+            this.Controls.Add(this.gridMesbah1);
+            this.Controls.Add(this.MenuRightPanelWithBorder);
+            this.Controls.Add(this.RightPanelWithBorder);
+            this.Controls.Add(this.BottomPanelWithBorder);
+            this.Controls.Add(this.TopPanelWithBorder);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MainMenuStrip = this.menuStrip1;
+            this.Name = "Form1";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.Text = "کلینیک";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.MenuRightPanelWithBorder.ResumeLayout(false);
+            this.MenuRightPanelWithBorder.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            this.RightPanelWithBorder.ResumeLayout(false);
+            this.RightPanelWithBorder.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.SMSDataGridView)).EndInit();
+            this.SendSMSPanelWithBorder.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.menuStrip2.ResumeLayout(false);
+            this.menuStrip2.PerformLayout();
+            this.BottomPanelWithBorder.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.TopPanelWithBorder.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private MesbahComponent.PanelWithBorder TopPanelWithBorder;
+        private System.Windows.Forms.Panel panel1;
+        private MesbahComponent.PanelWithBorder BottomPanelWithBorder;
+        private MesbahComponent.PanelWithBorder RightPanelWithBorder;
+        private System.Windows.Forms.Panel panel3;
+        private MesbahComponent.ColorBox colorBox1;
+        private System.Windows.Forms.CheckBox ColorCheckBox;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem MenuItem1ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuItem2ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuItem3ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuItem4ToolStripMenuItem;
+        private System.Windows.Forms.MenuStrip menuStrip2;
+        private System.Windows.Forms.ToolStripMenuItem MenuTop4ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuTop3ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuTop2ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem MenuTop1ToolStripMenuItem;
+        private System.Windows.Forms.DataGridView SMSDataGridView;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button SendSMSButton;
+        private MesbahComponent.PanelWithBorder MenuRightPanelWithBorder;
+        private MesbahComponent.PanelWithBorder SendSMSPanelWithBorder;
+        private MesbahComponent.ColorProgressBar SendSMSColorProgressBar;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button btnToday;
+        private System.Windows.Forms.Button btnTomarow;
+        private System.Windows.Forms.Panel panel4;
+        private MesbahComponent.Grid.GridMesbah gridMesbah1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CustomerCol;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NumberCol;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TimeCol;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn StateCol;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SectionCol;
+        private MesbahComponent.ColorProgressBar DeliveredSmsProgressBar1;
+    }
+}
+

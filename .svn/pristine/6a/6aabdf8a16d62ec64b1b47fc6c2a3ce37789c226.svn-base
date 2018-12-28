@@ -1,0 +1,383 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using MesbahComponent;
+using System.Text.RegularExpressions;
+
+namespace ClinicMesbah
+{
+    public partial class Setting : Form
+    {
+        DataAccess da = new DataAccess();
+        DataTable Department = new DataTable();
+        DataTable shifts = new DataTable(); DataTable setting = new DataTable();
+        public Setting()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (da.SetSettings(Convert.ToDateTime(txtAutoSmsTime.Text), txtEmail.Text, txtMobile.Text, Convert.ToDateTime(txtEndDelivercheck.Text), radioButton1.Checked) > 0)
+                MessageBox.Show("ثبت با موفقیت انجام شد.");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        private void DataGridView_SelectionChanged(object sender, EventArgs e)
+        {
+            if (grdDepartments.SelectedRows.Count != 0)
+            {
+                int index = grdDepartments.SelectedRows[0].Index;
+                // txtStartTime.Text = DataGridView.Rows[index].Cells[2].Value.ToString();
+                //  txtEndTime.Text = DataGridView.Rows[index].Cells[3].Value.ToString();
+                txtExtra.Text = grdDepartments.Rows[index].Cells[6].Value.ToString();
+                txtVisitCount.Text = grdDepartments.Rows[index].Cells[4].Value.ToString();
+
+            }
+        }
+        private void Setting_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd2_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void gbDepartment_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtVisitCount_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chasr_CheckedChanged(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void chsobh_CheckStateChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MenuItem1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void MenuItem2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void chsobh_CheckedChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void chasr_CheckStateChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gbSetting_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DataGridView_SelectionChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Setting_Load_1(object sender, EventArgs e)
+        {
+            Color color = Properties.Settings.Default.Color;
+            Properties.Settings.Default.Color = color;
+           
+            menuStrip1.BackColor = color;
+            MenuItem2ToolStripMenuItem.BackColor = color;
+            MenuItem3ToolStripMenuItem.BackColor = color;
+            btnAdd2.BackColor = color;
+            btnCancel2.BackColor = color;
+            btnAdd1.BackColor = color;
+            btnAdd2.BackColor = color;
+            btnCancel1.BackColor = color;
+            btnCancel2.BackColor = color;
+            menuStrip1.BackColor = color;
+            btnDelete.BackColor = color;
+            btnToday.BackColor = color;
+            grdDepartments.ColumnHeadersDefaultCellStyle.BackColor = color;
+            grdDepartments.RowsDefaultCellStyle.SelectionBackColor = ControlPaint.LightLight(color);
+            grdDepartments.AlternatingRowsDefaultCellStyle.BackColor = ControlPaint.LightLight(ControlPaint.LightLight(ControlPaint.LightLight(ControlPaint.LightLight(color))));
+            btnAdd2.Location = btnAdd1.Location;
+            btnCancel2.Location = btnCancel1.Location;
+          //  this.Size = new Size(this.Size.Width, 450);
+            gbSetting.Visible = true;
+            gbDepartment.Location = gbSetting.Location;
+
+            setting = da.ExecuteCommand("GetSetting").Tables[0];
+            Department = da.ExecuteCommand("GetDepartmentsIfo").Tables[0];
+            
+            if (setting.Rows.Count != 0)
+            {
+                txtAutoSmsTime.Text = setting.Rows[0]["AutoSmsTimes"].ToString();
+                txtEmail.Text = setting.Rows[0]["ManagerEmail"].ToString();
+                txtEndDelivercheck.Text = setting.Rows[0]["DeliverCheckstop"].ToString();
+                txtMobile.Text = setting.Rows[0]["ManagerMobile"].ToString();
+                radioButton1.Checked = Convert.ToBoolean(setting.Rows[0]["OnlyToday"]);
+            }
+
+
+
+            grdDepartments.AutoGenerateColumns = false;
+
+            //btnAdd2.Location = btnAdd1.Location;
+            //btnCancel2.Location = btnCancel1.Location;
+           // this.Size = new Size(this.Size.Width, 450);
+            gbSetting.Visible = true;
+            gbDepartment.Location = gbSetting.Location;
+            gbShift.Location = gbSetting.Location;
+            gbShift.Size = gbSetting.Size;
+            Department = da.ExecuteCommand("GetDepartmentsIfo").Tables[0];
+            grdDepartments.DataSource = Department;
+          //  setting = da.ExecuteCommand("GetSetting").Tables[0];
+
+            if (setting.Rows.Count != 0)
+            {
+                txtAutoSmsTime.Text = setting.Rows[0]["AutoSmsTimes"].ToString();
+                txtEmail.Text = setting.Rows[0]["ManagerEmail"].ToString();
+                txtEndDelivercheck.Text = setting.Rows[0]["DeliverCheckstop"].ToString();
+                txtMobile.Text = setting.Rows[0]["ManagerMobile"].ToString();
+            }
+        }
+
+        private void DataGridView_SelectionChanged_2(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+        private void MenuItem2ToolStripMenuItem_CheckedChanged(object sender, EventArgs e)
+        {
+            gbShift.Visible = false;
+            gbDepartment.Visible = true;
+            gbSetting.Visible = false;
+        }
+
+        private void MenuItem1ToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            gbShift.Visible = false;
+            gbSetting.Visible = true;
+            gbDepartment.Visible = false;
+        }
+
+        
+            //if (txtExtra.Text == "" || txtVisitCount.Text == ""
+
+            //              || txtDepName.Text == "")
+            //{
+            //    MessageBox.Show("اطلاعات بخش را وارد کنید");
+            //    return;
+            //}
+            //Department dpt;
+            //DataRow dr = Department.NewRow();
+            //if (DataGridView.SelectedRows.Count == 0)
+            //{
+            //  //  List<Shift> shiftsInfos = new List<Shift>();
+            //  //  if (chsobh.Checked)
+            //  //      shiftsInfos.Add(new Shift(
+            //  //  0, "صبح", Convert.ToDateTime(txtEndSobh.Text).TimeOfDay
+            //  //      , Convert.ToDateTime(txtStartSobh.Text).TimeOfDay, 0));
+            //  //  if (chasr.Checked)
+            //  //      shiftsInfos.Add(new Shift(
+            //  //  0, "عصر", Convert.ToDateTime(txtendasr.Text).TimeOfDay
+            //  //      , Convert.ToDateTime(txtstartasr.Text).TimeOfDay, 0));
+
+            //    dpt = new Department(0, txtDepName.Text,
+            //  Convert.ToInt16(txtVisitCount.Text), Convert.ToDateTime(txtExtra.Text).TimeOfDay, null);
+
+
+            //}
+            //else
+            //{
+            //    int index = DataGridView.SelectedRows[0].Index;
+            //    int id = Convert.ToInt32(DataGridView.Rows[index].Cells[0].Value);
+            //    //List<Shift> shiftsInfos = new List<Shift>();
+            //    //if (chsobh.Checked)
+            //    //    shiftsInfos.Add(new Shift(
+            //    //0, "صبح", Convert.ToDateTime(txtEndSobh.Text).TimeOfDay
+            //    //    , Convert.ToDateTime(txtStartSobh.Text).TimeOfDay, 0));
+            //    //if (chasr.Checked)
+            //    //    shiftsInfos.Add(new Shift(
+            //    //0, "عصر", Convert.ToDateTime(txtendasr.Text).TimeOfDay
+            //    //    , Convert.ToDateTime(txtstartasr.Text).TimeOfDay, id));
+
+            //    dpt = new Department(id, txtDepName.Text,
+            //    Convert.ToInt16(txtVisitCount.Text), Convert.ToDateTime(txtExtra.Text).TimeOfDay, null);
+
+            //}
+
+            //dr["DepartmentName"] = dpt.DepartmentName;
+            ////dr["StartTime"] = dpt.StartTime.TimeOfDay;
+            ////dr["EndTime"] = dpt.EndTime.TimeOfDay;
+            //dr["RequestRateInHour"] = dpt.VisitCount;
+
+            //dr["ExtraVisitTime"] = dpt.ExtraVisitTime;
+            //Department.Rows.Add(dr);
+            //DataGridView.DataSource = Department;
+
+            //if (da.SetDep(dpt) > 0)
+            //    MessageBox.Show("ثبت با موفقیت انجام شد.");
+
+        private void btnAdd2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DataGridView_DoubleClick(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void MenuItem3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+           
+            gbDepartment.Visible = false;
+            gbSetting.Visible = false;
+            gbShift.Visible = true;
+        }
+
+        private void MenuItem2ToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void gbShift_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd2_Click_2(object sender, EventArgs e)
+        {
+            int id;
+
+
+            if (txtDrCalling.Text == "" || txtExtra.Text == "" || txtDepName.Text == "")
+            { MessageForm.Show("لطفا اطلاعات را وارد نمایید"); return; }
+            SqlParameter[] param;
+            param = new SqlParameter[5];
+            int index = 0;
+            {
+                int i = grdDepartments.SelectedRows[0].Index;
+                id = Convert.ToInt32(grdDepartments.Rows[i].Cells[0].Value);
+            }
+            param[index++] = new SqlParameter("@DRCalling", (Convert.ToDateTime(txtDrCalling.Text)).TimeOfDay);
+
+            param[index++] = new SqlParameter("@ID", id);
+            param[index++] = new SqlParameter("@Extra", (Convert.ToDateTime(txtExtra.Text)).TimeOfDay);
+            //   param[index++] = new SqlParameter("@Active", !chActive.Checked);
+            param[index++] = new SqlParameter("@DepName", txtDepName.Text);
+            param[index++] = new SqlParameter("@RequestRateInHour", Convert.ToInt32(txtVisitCount.Text));
+            // Department dep = new Department(0, txtDepName.Text, Convert.ToInt32(txtVisitCount.Text), (Convert.ToDateTime(txtExtra.Text)).TimeOfDay, !chActive.Checked);
+            da.ExecuteScalarSP("SetDep", param);
+        }
+
+        private void txtDrCalling_Validating(object sender, CancelEventArgs e)
+        {
+            //TextBox box = sender as TextBox;
+            //string pattern = "\\d{1,2}:\\d{2}\\s*(AM|PM)";
+
+            //if (box != null)
+            //{
+            //    if (!Regex.IsMatch(box.Text, pattern, RegexOptions.CultureInvariant))
+            //    {
+            //        MessageBox.Show("Not a valid time format ('hh:mm AM|PM').");
+            //        e.Cancel = true;
+            //        box.Select(0, box.Text.Length);
+            //    }
+            //}
+        }
+
+        private void txtDrCalling_TextChanged(object sender, EventArgs e)
+        {
+            txtDrCalling.MaxLength = 5;
+            DeleteChars();
+               if (txtDrCalling.Text.Length == 1)
+                   if (Convert.ToInt32(txtDrCalling.Text) > 2)
+                   { SendKeys.Send("{BACKSPACE}"); return; }
+                   else if (txtDrCalling.Text.Length == 2)
+                       if (Convert.ToInt32(txtDrCalling.Text) > 24)
+                       { SendKeys.Send("{BACKSPACE}");return; }
+                     if (txtDrCalling.Text.Length == 2)
+                txtDrCalling.Text += ":";
+ 
+            txtDrCalling.SelectionStart = txtDrCalling.Text.Length;
+                }
+        private void DeleteChars()
+        {
+
+            if (!txtDrCalling.Text.EndsWith("0") && !txtDrCalling.Text.EndsWith("1") && !txtDrCalling.Text.EndsWith("2") && !textBox1.Text.EndsWith("3") && !txtDrCalling.Text.EndsWith("4") && !txtDrCalling.Text.EndsWith("5") && !txtDrCalling.Text.EndsWith("6") && !textBox1.Text.EndsWith("7") && !txtDrCalling.Text.EndsWith("8") && !textBox1.Text.EndsWith("9") && !txtDrCalling.Text.EndsWith(":"))
+               
+                SendKeys.Send("{BACKSPACE}");
+           
+        }
+
+        private void DataGridView_SelectionChanged_3(object sender, EventArgs e)
+        {
+
+            if (grdDepartments.SelectedRows.Count != 0)
+            {
+                int index = grdDepartments.SelectedRows[0].Index;
+                //txtStartTime.Text = DataGridView.Rows[index].Cells[2].Value.ToString();
+                txtDrCalling.Text = grdDepartments.Rows[index].Cells[3].Value.ToString();
+                txtExtra.Text = grdDepartments.Rows[index].Cells[4].Value.ToString();
+                txtVisitCount.Text = grdDepartments.Rows[index].Cells[2].Value.ToString();
+                txtDepName.Text = grdDepartments.Rows[index].Cells[1].Value.ToString();
+
+
+            }
+        }
+
+        private void grdDepartments_DoubleClick(object sender, EventArgs e)
+        {
+            int index = grdDepartments.SelectedRows[0].Index;
+            grdDepartments.Rows[grdDepartments.SelectedRows[0].Index].Cells[2].Value.ToString();
+            Calender c = new Calender(Convert.ToInt32(grdDepartments.Rows[grdDepartments.SelectedRows[0].Index].Cells[0].Value));
+            c.Show();
+        }
+            }
+        }
+            
+ 

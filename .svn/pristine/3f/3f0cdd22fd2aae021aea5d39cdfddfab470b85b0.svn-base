@@ -1,0 +1,321 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClinicMesbah
+{
+    public class DataAccess
+    {
+         string connectionString = "Data Source=svn.mesbahsoft.com;Initial Catalog=Clinic;Persist Security Info=True;User ID=sa;Password=1234567aA";
+       //  string connectionString = "Data Source=SHAREPOINT;Initial Catalog=Clinic23;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
+        public DataSet ExecuteCommand(string storedProcedure)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlConnection connection;
+                SqlDataAdapter adapter;
+                 SqlCommand command = new SqlCommand();
+                DataSet ds = new DataSet();
+
+                con.Open();
+                command.Connection = con;
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = storedProcedure;
+                adapter = new SqlDataAdapter(command);
+                adapter.Fill(ds);
+
+                return ds;
+
+                con.Close();
+
+            }
+        }
+        public DataSet ExecuteCommand(string storedProcedure, short sectionID)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlConnection connection;
+                SqlDataAdapter adapter;
+                SqlCommand command = new SqlCommand();
+                DataSet ds = new DataSet();
+
+                con.Open();
+                command.Connection = con;
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = storedProcedure;
+                command.Parameters.AddWithValue("@SectionID", sectionID);
+              
+                adapter = new SqlDataAdapter(command);
+                adapter.Fill(ds);
+
+                return ds;
+
+                con.Close();
+
+            }
+        }
+       
+        public DataSet ExecuteCommand(string storedProcedure, short sectionID,byte witchDay)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlConnection connection;
+                SqlDataAdapter adapter;
+                SqlCommand command = new SqlCommand();
+                DataSet ds = new DataSet();
+
+                con.Open();
+                command.Connection = con;
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = storedProcedure;
+                command.Parameters.AddWithValue("@SectionID", sectionID);
+                command.Parameters.AddWithValue("@Day", witchDay);
+
+                adapter = new SqlDataAdapter(command);
+                adapter.Fill(ds);
+
+                return ds;
+
+                con.Close();
+
+            }
+        }
+        public int GetColumnCount(string storedProcedure)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlConnection connection;
+                SqlDataAdapter adapter;
+                SqlCommand command = new SqlCommand();
+                DataSet ds = new DataSet();
+
+                con.Open();
+                command.Connection = con;
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = storedProcedure;
+                adapter = new SqlDataAdapter(command);
+                adapter.Fill(ds);
+
+                return Convert.ToInt32( ds.Tables[0].Rows[0]["ColumnCount"]);
+
+                con.Close();
+
+            }
+        }
+
+        public int GetColumnCount(string storedProcedure,int departementID)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlConnection connection;
+                SqlDataAdapter adapter;
+                SqlCommand command = new SqlCommand();
+                DataSet ds = new DataSet();
+
+                con.Open();
+                command.Parameters.AddWithValue("@IDs", departementID); ;
+                command.Connection = con;
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = storedProcedure;
+                adapter = new SqlDataAdapter(command);
+                adapter.Fill(ds);
+
+
+                return Convert.ToInt32(ds.Tables[0].Rows[0]["departementID"]);
+
+                con.Close();
+
+            }
+        }
+        internal int SetSettings(DateTime AutoSmsTime, string Email, string Mobile, DateTime EndDelivercheck,bool TodayOnly)
+        {
+            int result;
+
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                cmd.CommandTimeout = 120;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "SetSettings";
+                cmd.Parameters.AddWithValue("@AutoSmsTime", AutoSmsTime);
+                cmd.Parameters.AddWithValue("@Email", Email);
+                cmd.Parameters.AddWithValue("@Mobile", Mobile);
+                cmd.Parameters.AddWithValue("@EndDelivercheck", EndDelivercheck);
+                cmd.Parameters.AddWithValue("@OnlyToday", TodayOnly);
+
+                try
+                {
+                    con.Open();
+                    result = Convert.ToInt16(cmd.ExecuteNonQuery());
+                    con.Close();
+                }
+                catch (Exception Exception)
+                {
+                    result = -2;
+                }
+            }
+            return result;
+        }
+   
+
+        public int Insert(string procedure, string pm)
+        {
+            int result;
+
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                cmd.CommandTimeout = 120;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = procedure;
+
+                cmd.Parameters.AddWithValue("@IDs", pm);
+                cmd.Parameters.AddWithValue("@SmsBody", "salaam");
+                try
+                {
+                    con.Open();
+                    result = Convert.ToInt16(cmd.ExecuteNonQuery());
+                    con.Close();
+                }
+                catch (Exception Exception)
+                {
+                    result = -2;
+                }
+            }
+            return result;
+        }
+
+
+        public int UpdateIntermittence(string procedure, int ID, bool status)
+        {
+            int result;
+
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                cmd.CommandTimeout = 120;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = procedure;
+
+                cmd.Parameters.AddWithValue("@ID", ID);
+                cmd.Parameters.AddWithValue("@Status", status);
+                try
+                {
+                    con.Open();
+                    result = Convert.ToInt16(cmd.ExecuteNonQuery());
+                    con.Close();
+                }
+                catch (Exception Exception)
+                {
+                    result = -2;
+                }
+            }
+            return result;
+        }
+
+        public int InsertPatient(string procedure,string nationalityCode, string fnam,string lname,string fatherName,string adress, string isuranceID,string tel, string mobile)
+        {
+            int result;
+
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                cmd.CommandTimeout = 120;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = procedure;
+                cmd.Parameters.AddWithValue("@CustomerID",nationalityCode );
+                cmd.Parameters.AddWithValue("@Fname",fnam );
+                cmd.Parameters.AddWithValue("@Lname", lname);
+                cmd.Parameters.AddWithValue("@FatherName",fatherName );
+                cmd.Parameters.AddWithValue("@Adress",adress );
+                cmd.Parameters.AddWithValue("@IsuranceID", isuranceID);
+                cmd.Parameters.AddWithValue("@Telphone",tel );
+                cmd.Parameters.AddWithValue("@Mobile",mobile );
+                
+                    try
+                {
+                    con.Open();
+                    result = Convert.ToInt16(cmd.ExecuteNonQuery());
+                    con.Close();
+                }
+                catch (Exception Exception)
+                {
+                    result = -2;
+                }
+            }
+            return result;
+        }
+
+        public int UpdateIntermittenceExchange(string indexSortNew, string indexSortOld, string procedure)
+        {
+            int result;
+
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                cmd.CommandTimeout = 120;
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = procedure;
+
+                cmd.Parameters.AddWithValue("@IndexSortNew", indexSortNew);
+                cmd.Parameters.AddWithValue("@IndexSortOld", indexSortOld);
+                try
+                {
+                    con.Open();
+                    result = Convert.ToInt16(cmd.ExecuteNonQuery());
+                    con.Close();
+                }
+                catch (Exception Exception)
+                {
+                    result = -2;
+                }
+            }
+            return result;
+        }
+
+
+        public DataSet GetpationtInfo(string storedProcedure, string nationalCode)
+        {
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                SqlConnection connection;
+                SqlDataAdapter adapter;
+                SqlCommand command = new SqlCommand();
+                DataSet ds = new DataSet();
+
+                con.Open();
+                command.Connection = con;
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = storedProcedure;
+                command.Parameters.AddWithValue("@nationalCode", nationalCode);
+
+                adapter = new SqlDataAdapter(command);
+                adapter.Fill(ds);
+
+                return ds;
+
+                con.Close();
+
+            }
+        }
+
+        internal int SetDep(Department dpt)
+        {
+            return 1;
+        }
+    }
+}

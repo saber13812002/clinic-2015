@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace ClinicMesbah
+{
+    public partial class Calender : Form
+    {
+        public Calender()
+        {
+            InitializeComponent();
+        }
+
+        private void Calender_Load(object sender, EventArgs e)
+        {
+            fillcmb();
+        }
+
+        private void fillcmb()
+        {
+            Dictionary<string, int> Day = new Dictionary<string, int>();
+            Day.Add("شنبه",0);
+              Day.Add("یکشنبه",1);
+                    Day.Add("دوشنبه",2);
+                          Day.Add("سه شنبه",3);
+                                Day.Add("چهارشنبه",4);
+                                      Day.Add("پنج شنبه",5);
+                                            Day.Add("جمعه",6);
+
+                                            cmbDayOfWeek.DataSource = new BindingSource(Day, null);
+                                            cmbDayOfWeek.DisplayMember = "Value";
+            cmbDayOfWeek.ValueMember="Key";
+        }
+    }
+}

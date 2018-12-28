@@ -1,0 +1,294 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ClinicMesbah
+{
+    public partial class Setting : Form
+    {
+        DataAccess da = new DataAccess();
+        DataTable Department = new DataTable();
+        DataTable shifts = new DataTable(); DataTable setting = new DataTable();
+        public Setting()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (da.SetSettings(Convert.ToDateTime(txtAutoSmsTime.Text), txtEmail.Text, txtMobile.Text, Convert.ToDateTime(txtEndDelivercheck.Text), radioButton1.Checked) > 0)
+                MessageBox.Show("ثبت با موفقیت انجام شد.");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        private void DataGridView_SelectionChanged(object sender, EventArgs e)
+        {
+            if (DataGridView.SelectedRows.Count != 0)
+            {
+                int index = DataGridView.SelectedRows[0].Index;
+                // txtStartTime.Text = DataGridView.Rows[index].Cells[2].Value.ToString();
+                //  txtEndTime.Text = DataGridView.Rows[index].Cells[3].Value.ToString();
+                txtExtra.Text = DataGridView.Rows[index].Cells[6].Value.ToString();
+                txtVisitCount.Text = DataGridView.Rows[index].Cells[4].Value.ToString();
+
+            }
+        }
+        private void Setting_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd2_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void gbDepartment_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtVisitCount_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chasr_CheckedChanged(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void chsobh_CheckStateChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MenuItem1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void MenuItem2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void chsobh_CheckedChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void chasr_CheckStateChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gbSetting_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DataGridView_SelectionChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Setting_Load_1(object sender, EventArgs e)
+        {
+            Color color = Properties.Settings.Default.Color;
+            Properties.Settings.Default.Color = color;
+            //   Properties.Settings.Default.GridText = dataGridView1.Rows[0].Cells[0].Value.ToString();
+
+
+            // Color C = Properties.Settings.Default.myColor;
+          
+            menuStrip1.BackColor = color;
+            MenuItem2ToolStripMenuItem.BackColor = color;
+            MenuItem3ToolStripMenuItem.BackColor = color;
+            button4.BackColor = color;
+            button5.BackColor = color;
+            btnAdd1.BackColor = color;
+            btnAdd2.BackColor = color;
+            btnCancel1.BackColor = color;
+            btnCancel2.BackColor = color;
+            menuStrip1.BackColor = color;
+            DataGridView.ColumnHeadersDefaultCellStyle.BackColor = color;
+            DataGridView.RowsDefaultCellStyle.SelectionBackColor = ControlPaint.LightLight(color);
+            DataGridView.AlternatingRowsDefaultCellStyle.BackColor = ControlPaint.LightLight(ControlPaint.LightLight(ControlPaint.LightLight(ControlPaint.LightLight(color))));
+            btnAdd2.Location = btnAdd1.Location;
+            btnCancel2.Location = btnCancel1.Location;
+            this.Size = new Size(this.Size.Width, 450);
+            gbSetting.Visible = true;
+            gbDepartment.Location = gbSetting.Location;
+
+            setting = da.ExecuteCommand("GetSetting").Tables[0];
+            Department = da.ExecuteCommand("GetActiveDep").Tables[0];
+            shifts = da.ExecuteCommand("GetDep").Tables[1];
+            if (setting.Rows.Count != 0)
+            {
+                txtAutoSmsTime.Text = setting.Rows[0]["AutoSmsTimes"].ToString();
+                txtEmail.Text = setting.Rows[0]["ManagerEmail"].ToString();
+                txtEndDelivercheck.Text = setting.Rows[0]["DeliverCheckstop"].ToString();
+                txtMobile.Text = setting.Rows[0]["ManagerMobile"].ToString();
+                radioButton1.Checked = Convert.ToBoolean(setting.Rows[0]["OnlyToday"]);
+            }
+
+
+
+            DataGridView.AutoGenerateColumns = false;
+
+            //btnAdd2.Location = btnAdd1.Location;
+            //btnCancel2.Location = btnCancel1.Location;
+            this.Size = new Size(this.Size.Width, 450);
+            gbSetting.Visible = true;
+            gbDepartment.Location = gbSetting.Location;
+            Department = da.ExecuteCommand("GetActiveDep").Tables[0];
+            DataGridView.DataSource = Department;
+            setting = da.ExecuteCommand("GetSetting").Tables[0];
+
+            if (setting.Rows.Count != 0)
+            {
+                txtAutoSmsTime.Text = setting.Rows[0]["AutoSmsTimes"].ToString();
+                txtEmail.Text = setting.Rows[0]["ManagerEmail"].ToString();
+                txtEndDelivercheck.Text = setting.Rows[0]["DeliverCheckstop"].ToString();
+                txtMobile.Text = setting.Rows[0]["ManagerMobile"].ToString();
+            }
+        }
+
+        private void DataGridView_SelectionChanged_2(object sender, EventArgs e)
+        {
+
+            if (DataGridView.SelectedRows.Count != 0)
+            {
+                int index = DataGridView.SelectedRows[0].Index;
+                //txtStartTime.Text = DataGridView.Rows[index].Cells[2].Value.ToString();
+                //   txtEndTime.Text = DataGridView.Rows[index].Cells[3].Value.ToString();
+                txtExtra.Text = DataGridView.Rows[index].Cells[4].Value.ToString();
+                txtVisitCount.Text = DataGridView.Rows[index].Cells[2].Value.ToString();
+                txtDepName.Text = DataGridView.Rows[index].Cells[1].Value.ToString();
+                foreach (DataRow dr in shifts.Rows)
+                    if (Convert.ToInt32(dr["DepartmentID"]) == Convert.ToInt32(DataGridView.Rows[index].Cells[0].Value))
+                        if (dr["ShiftName"].ToString() == "صبح")
+                        {
+                            chsobh.Checked = true;
+                            txtStartSobh.Text = dr["StartTime"].ToString();
+                            txtEndSobh.Text = dr["EndTime"].ToString();
+                        }
+                        else
+                            if (dr["ShiftName"].ToString() == "عصر")
+                            {
+                                chasr.Checked = true;
+                                txtstartasr.Text = dr["StartTime"].ToString();
+                                txtendasr.Text = dr["EndTime"].ToString();
+                            }
+
+            }
+        }
+
+        private void chsobh_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (chsobh.Checked)
+                txtStartSobh.Enabled = txtEndSobh.Enabled = true;
+            else
+                txtStartSobh.Enabled = txtEndSobh.Enabled = false;
+        }
+
+        private void MenuItem2ToolStripMenuItem_CheckedChanged(object sender, EventArgs e)
+        {
+            gbDepartment.Visible = true;
+            gbSetting.Visible = false;
+        }
+
+        private void MenuItem1ToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            gbSetting.Visible = true;
+            gbDepartment.Visible = false;
+        }
+
+        private void chasr_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (chasr.Checked)
+                txtstartasr.Enabled = txtendasr.Enabled = true;
+            else txtstartasr.Enabled = txtendasr.Enabled = false;
+        }
+
+        private void btnAdd2_Click_1(object sender, EventArgs e)
+        {
+
+            if (txtExtra.Text == "" || txtVisitCount.Text == ""
+
+                          || txtDepName.Text == "")
+            {
+                MessageBox.Show("اطلاعات بخش را وارد کنید");
+                return;
+            }
+            Department dpt;
+            DataRow dr = Department.NewRow();
+            if (DataGridView.SelectedRows.Count == 0)
+            {
+                List<Shift> shiftsInfos = new List<Shift>();
+                if (chsobh.Checked)
+                    shiftsInfos.Add(new Shift(
+                0, "صبح", Convert.ToDateTime(txtEndSobh.Text).TimeOfDay
+                    , Convert.ToDateTime(txtStartSobh.Text).TimeOfDay, 0));
+                if (chasr.Checked)
+                    shiftsInfos.Add(new Shift(
+                0, "عصر", Convert.ToDateTime(txtendasr.Text).TimeOfDay
+                    , Convert.ToDateTime(txtstartasr.Text).TimeOfDay, 0));
+
+                dpt = new Department(0, txtDepName.Text,
+              Convert.ToInt16(txtVisitCount.Text), Convert.ToDateTime(txtExtra.Text).TimeOfDay, shiftsInfos);
+
+
+            }
+            else
+            {
+                int index = DataGridView.SelectedRows[0].Index;
+                int id = Convert.ToInt32(DataGridView.Rows[index].Cells[0].Value);
+                List<Shift> shiftsInfos = new List<Shift>();
+                if (chsobh.Checked)
+                    shiftsInfos.Add(new Shift(
+                0, "صبح", Convert.ToDateTime(txtEndSobh.Text).TimeOfDay
+                    , Convert.ToDateTime(txtStartSobh.Text).TimeOfDay, 0));
+                if (chasr.Checked)
+                    shiftsInfos.Add(new Shift(
+                0, "عصر", Convert.ToDateTime(txtendasr.Text).TimeOfDay
+                    , Convert.ToDateTime(txtstartasr.Text).TimeOfDay, id));
+
+                dpt = new Department(id, txtDepName.Text,
+                Convert.ToInt16(txtVisitCount.Text), Convert.ToDateTime(txtExtra.Text).TimeOfDay, shiftsInfos);
+
+            }
+
+            dr["DepartmentName"] = dpt.DepartmentName;
+            //dr["StartTime"] = dpt.StartTime.TimeOfDay;
+            //dr["EndTime"] = dpt.EndTime.TimeOfDay;
+            dr["RequestRateInHour"] = dpt.VisitCount;
+
+            dr["ExtraVisitTime"] = dpt.ExtraVisitTime;
+            Department.Rows.Add(dr);
+            DataGridView.DataSource = Department;
+
+            if (da.SetDep(dpt) > 0)
+                MessageBox.Show("ثبت با موفقیت انجام شد.");
+        }
+    }
+}

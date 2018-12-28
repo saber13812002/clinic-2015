@@ -1,0 +1,181 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ClinicMesbah
+{
+    public partial class Document : Form
+    {
+        public string _mobileNumber;
+
+        private string nasionalityCode; private string TelORMobile;
+        DataAccess da = new DataAccess();
+        public Document()
+        {
+            InitializeComponent();
+        }
+        public Document(string nasionalityCode , string TelORMobile)
+        {
+            InitializeComponent();
+            this.nasionalityCode = nasionalityCode;
+            this.TelORMobile = TelORMobile;
+        }
+
+        private bool IsMobileNumberValid(string mobileNumber)
+        {
+
+            _mobileNumber = CleanNumber(mobileNumber);
+
+
+            _mobileNumber = _mobileNumber.TrimStart(new char[] { '0' });
+
+
+            if (_mobileNumber.StartsWith("98"))
+            {
+                _mobileNumber = _mobileNumber.Remove(0, 2);
+            }
+
+
+            if (!_mobileNumber.StartsWith("9"))
+            {
+                return false;
+            }
+
+
+            if (_mobileNumber.Length != 10)
+            {
+                return false;
+            }
+
+            return true;
+        }
+        private string CleanNumber(string phone)
+        {
+            Regex digitsOnly = new Regex(@"[^\d]");
+            return digitsOnly.Replace(phone, "");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int result = da.InsertPatient("SetCostumerInfo", txtNationalityCode.Text, txtName.Text, txtLastName.Text, txtFather.Text, txtAdress.Text, txtisurance.Text, txtTel.Text, txtMobile.Text);
+            if (result > 0)
+               
+            { MessageBox.Show("ثبت با موفقیت انجام شد");
+                 txtAdress.Enabled = false;
+                txtFather.Enabled = false;
+                txtisurance.Enabled = false;
+                txtLastName.Enabled = false;
+                txtMobile.Enabled = false;
+                txtName.Enabled = false;
+                txtTel.Enabled = false;
+                txtNationalityCode.Enabled = false;
+                button2.Enabled = false;
+            }
+            else
+                MessageBox.Show("ثبت ناموفق بود");
+           
+      
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void Document_Load(object sender, EventArgs e)
+        {
+            DataSet ds = new DataSet();
+            txtNationalityCode.Text = nasionalityCode;
+          
+                if(IsMobileNumberValid( TelORMobile))
+txtMobile.Text=TelORMobile;
+                else
+                    txtTel.Text =TelORMobile;
+            ds = da.GetpationtInfo("GetCustomerInfo", nasionalityCode);
+            if (ds != null)
+            {
+                if (ds.Tables[0].Rows.Count > 0)
+                {
+                    txtAdress.Text = ds.Tables[0].Rows[0]["Adress"].ToString();
+                    txtFather.Text = ds.Tables[0].Rows[0]["FatherName"].ToString();
+                    txtisurance.Text = ds.Tables[0].Rows[0]["IsuranceID"].ToString();
+                    txtLastName.Text = ds.Tables[0].Rows[0]["Lname"].ToString();
+                    txtMobile.Text = ds.Tables[0].Rows[0]["Mobile"].ToString();
+                    txtName.Text = ds.Tables[0].Rows[0]["Fname"].ToString();
+                    txtTel.Text = ds.Tables[0].Rows[0]["Telphone"].ToString();
+                }
+            }
+            
+        }
+
+        private void txtNationalityCode_KeyDown(object sender, KeyEventArgs e)
+        {
+            //char c = Convert.ToChar(e.PlatformKeyCode);
+            //if (!char.IsDigit(c))
+            //{
+            //    e.Handled = true;
+            //}
+        }
+
+        private void txtisurance_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b')
+            {
+                e.Handled = false;
+                return;
+            }
+            if (!(Char.IsDigit(e.KeyChar) || (e.KeyChar == (char)Keys.Back)))
+                e.Handled = true;
+        }
+
+        private void txtMobile_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b')
+            {
+                e.Handled = false;
+                return;
+            }
+            if (!(Char.IsDigit(e.KeyChar) || (e.KeyChar == (char)Keys.Back)))
+                e.Handled = true;
+            if (txtMobile.Text.Length > 10)
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txtTel_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b')
+            {
+                e.Handled = false;
+                return;
+            }
+            if (!(Char.IsDigit(e.KeyChar) || (e.KeyChar == (char)Keys.Back)))
+                e.Handled = true;
+        }
+
+        private void txtNationalityCode_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\b')
+            {
+                e.Handled = false;
+                return;
+            }
+            if (!(Char.IsDigit(e.KeyChar) || (e.KeyChar == (char)Keys.Back)))
+                e.Handled = true;
+            if (txtNationalityCode.Text.Length > 9)
+            {
+                e.Handled = true;
+            }
+        }
+
+
+    }
+}
